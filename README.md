@@ -24,8 +24,8 @@ Node.js project implements a To-Do Backend Server. It includes Create task, View
 
 ## Installation
 1- Clone the repository to your local machine.
-2- Run npm install to install the required dependencies.
-3- Run npm start to start the server.
+2- Run `npm install` to install the required dependencies.
+3- Run `npm start` to start the server.
 
 
 ## Author
