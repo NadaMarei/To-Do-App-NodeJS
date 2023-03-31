@@ -1,4 +1,4 @@
-# To-Do-App
+# To-Do App
 Node.js project implements a To-Do Backend Server. It includes Create task, View task, Update task and Remove task using NodeJS and MongoDB.
 
 ## Technologies used
