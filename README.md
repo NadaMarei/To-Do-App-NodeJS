@@ -23,8 +23,8 @@ Node.js project implements a To-Do Backend Server. It includes Create task, View
 - Access to a MongoDB Atlas account.
 
 ## Installation
-1- Clone the repository to your local machine.
-2- Run `npm install` to install the required dependencies.
+1- Clone the repository to your local machine. <br>
+2- Run `npm install` to install the required dependencies.<br>
 3- Run `npm start` to start the server.
 
 
